@@ -1,5 +1,7 @@
 <h1>by-leargit</h1>
-<code>bootstrap/
+<pre>
+<code>
+bootstrap/
 ├── css/
 │   ├── bootstrap.css
 │   ├── bootstrap.css.map
@@ -19,6 +21,7 @@
     ├── glyphicons-halflings-regular.woff
     └── glyphicons-halflings-regular.woff2
 </code>
+</pre>
 <h2>Browser Support</h2>
 <table><thead>
 <tr>
